@@ -4,3 +4,5 @@
 
 - Dataset Analysis: Explores, parses and preprocesses various datasets using Pandas, then uses machine learning techniques and algorithms, (k-NN, Naïve Bayes, and SVM) with sci-kit learn, to visualize distributions of each feature for each class involved.
 
+- Unsupervised ML: Explores higher dimensions, principal component analysis, and clustering.
+
